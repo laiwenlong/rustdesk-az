@@ -1,10 +1,10 @@
 html {
-    var(accent): #0071ff;
-    var(button): #2C8CFF;
+    var(accent): #0095a2;
+    var(button): #00acbb;
     var(gray-bg): #eee;
-    var(bg): white;
+    var(bg): #fafae9;
     var(border): #ccc;
-    var(hover-border): #999;
+    var(hover-border): #fcf4d1;
     var(text): #222;
     var(placeholder): #aaa;
     var(lighter-text): #888;
