@@ -84,7 +84,7 @@ div#global-screens > div {
 
 header #screen.current, div#global-screens > div.current {
   background: #666;
-  color: white;
+  color: #fafae9;
 }
 
 span#fullscreen.active {
